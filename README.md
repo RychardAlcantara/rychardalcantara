@@ -9,7 +9,7 @@ Ola Eu sou o Rychard Alcantara
 - 😄 Pronouns: ele/dele
 
 <div>
-  <a href="https://github.com/RychardAlcantara">
+  <a href="https://github.com/RychardAlcantara" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RychardAlcantara&layout=compact&langs_count=7&theme=dark" />
 </div>
