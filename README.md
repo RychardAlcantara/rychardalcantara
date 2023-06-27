@@ -1,10 +1,8 @@
-Ola Eu sou o Rychard Alcantara
+Olá Eu sou o Rychard Alcantara
 
 
-- 🔭 Estou trabalhando atualmente como Analista de Microinformatica Jr 
+- 🔭 Estou trabalhando atualmente como Desenvolvedor Full-Stack Jr 
 - 🚀 Formado em Analise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estou estudando desenvolvimento web na Udemy
-- 👯 Estou procurando uma oportunidade para uma vaga de front-end
 - 📫 como chegar ate mim: rychardgabriell32@gmail.com
 - 😄 Pronouns: ele/dele
 
